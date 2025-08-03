@@ -29,7 +29,7 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 - `employee_salary`
 - `parks_departments`
 
-🔗 [View Dataset Script](00.Parks_and_Rec_Create_DB.sql)
+🔗 [View Dataset Script](Beginner - Parks_and_Rec_Create_db.sql)
 
 ---
 
