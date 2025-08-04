@@ -40,6 +40,8 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 | Basic SELECT statements | [01.SELECT_statement.sql](01.SELECT_statement.sql) |
 | WHERE Clause            | [02.WHERE_Clause.sql ](02.WHERE_Clause.sql)        |
 | LIKE Operator           | [03.LIKE_Operator.sql](03.LIKE_Operator.sql)       |
+| GROUP BY Statement      | [04.GROUPBY.sql](04.GROUPBY.sql)                   |
+| ORDER BY Statement      | [05.ORDERBY.sql](04.ORDERBY.sql)                   |
 | (more coming soon...)   | —                                                  |
 
 ---
