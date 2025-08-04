@@ -15,8 +15,8 @@ This repository is a personal log of my journey to learn and master SQL, with a 
 
 ## 🧰 Tools Used
 
-- **SQL Dialect**: MySQL  
-- **IDE**: MySQL Workbench  
+- **SQL Dialect**: MySQL
+- **IDE**: MySQL Workbench
 - **Version Control**: Git & GitHub
 
 ---
@@ -31,15 +31,15 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 
 🔗 [View Dataset Script](00.Parks_and_Rec_Create_DB.sql)
 
-
 ---
 
 ## 📂 Topics Covered So Far
 
-| Topic | File |
-|-------|------|
+| Topic                   | File                                               |
+| ----------------------- | -------------------------------------------------- |
 | Basic SELECT statements | [01.SELECT_statement.sql](01.SELECT_statement.sql) |
-| (more coming soon...) | — |
+| WHERE Clause            | [02.WHERE_Clause.sql ](02.WHERE_Clause.sql)        |
+| (more coming soon...)   | —                                                  |
 
 ---
 
@@ -54,4 +54,3 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 ## ⭐️ Want to Learn With Me?
 
 Feel free to fork this repo, suggest improvements, or use the structure for your own SQL practice.
-
