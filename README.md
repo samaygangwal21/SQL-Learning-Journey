@@ -42,6 +42,7 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 | LIKE Operator           | [03.LIKE_Operator.sql](03.LIKE_Operator.sql)       |
 | GROUP BY Statement      | [04.GROUPBY.sql](04.GROUPBY.sql)                   |
 | ORDER BY Statement      | [05.ORDERBY.sql](04.ORDERBY.sql)                   |
+| HAVING Clause           | [06.HAVING_Clause.sql ](06.HAVING_Clause.sql)      |
 | (more coming soon...)   | —                                                  |
 
 ---
