@@ -39,6 +39,7 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 | ----------------------- | -------------------------------------------------- |
 | Basic SELECT statements | [01.SELECT_statement.sql](01.SELECT_statement.sql) |
 | WHERE Clause            | [02.WHERE_Clause.sql ](02.WHERE_Clause.sql)        |
+| LIKE Statement          | [03.LIKE_Statement.sql](03.LIKE_Statement.sql)     |
 | (more coming soon...)   | —                                                  |
 
 ---
