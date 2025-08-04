@@ -1,4 +1,5 @@
 SELECT gender , AVG(age) , max(age) 
 FROM employee_demographics
-GROUP BY gender
-HAVING AVG(age) > 40;
+WHERE gender LIKE '%m%'
+GROUP BY gender 
+HAVING AVG(age) > 30;
