@@ -45,7 +45,8 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 | HAVING Clause           | [06.HAVING_Clause.sql ](06.HAVING_Clause.sql)      |
 | LIMIT Clause            | [07.LIMIT_Clause.sql ](07.LIMIT_Clause.sql)        |
 | ALIASING                | [08.ALIASING.sql ](08.ALIASING.sql)                |
-| JOIN                    | [08.JOIN.sql ](08.JOIN.sql)                        |
+| JOIN                    | [09.JOIN.sql ](09.JOIN.sql)                        |
+| UNION                   | [10.UNION.sql ](10.UNION.sql)                      |
 | (more coming soon...)   | —                                                  |
 
 ---
