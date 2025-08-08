@@ -48,6 +48,7 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 | JOIN                    | [09.JOIN.sql ](09.JOIN.sql)                        |
 | UNION                   | [10.UNION.sql ](10.UNION.sql)                      |
 | String Functions        | [11.String_function.sql ](11.String_function.sql)  |
+| CASE statement          | [12.CASE_statement.sql ](12.CASE_statement.sql)    |
 | (more coming soon...)   | —                                                  |
 
 ---
