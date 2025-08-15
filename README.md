@@ -33,42 +33,42 @@ I’m using a fictional employee dataset based on the _Parks and Recreation_ sho
 
 ---
 
-## 🧪 Dataset Used for learning
+## 🧪 Dataset Used for Implementation
 
-I’m using a dataset based on the _layoffs_ show, featuring:
+I’m using a dataset _layoffs_ , featuring:
 
 - `Company`
 - `Industry`
 - `Total_laid_off`
 - `Percentage_laid_off`
 
-🔗 [View Dataset for Data Cleaning and EDA](CLEANING_&_EDA/layoffs.csv)
+🔗 [View Dataset for Data Cleaning and EDA](CLEANING_EDA/layoffs.csv)
 
 ---
 
 ## 📂 Topics Covered So Far
 
-| Topic                          | File                                                              |
-| ------------------------------ | ----------------------------------------------------------------- |
-| Basic SELECT statements        | [01.SELECT_statement.sql](01.SELECT_statement.sql)                |
-| WHERE Clause                   | [02.WHERE_Clause.sql](02.WHERE_Clause.sql)                        |
-| LIKE Operator                  | [03.LIKE_Operator.sql](03.LIKE_Operator.sql)                      |
-| GROUP BY Statement             | [04.GROUPBY.sql](04.GROUPBY.sql)                                  |
-| ORDER BY Statement             | [05.ORDERBY.sql](05.ORDERBY.sql)                                  |
-| HAVING Clause                  | [06.HAVING_Clause.sql](06.HAVING_Clause.sql)                      |
-| LIMIT Clause                   | [07.LIMIT_Clause.sql](07.LIMIT_Clause.sql)                        |
-| ALIASING                       | [08.ALIASING.sql](08.ALIASING.sql)                                |
-| JOIN                           | [09.JOIN.sql](09.JOIN.sql)                                        |
-| UNION                          | [10.UNION.sql](10.UNION.sql)                                      |
-| String Functions               | [11.String_function.sql](11.String_function.sql)                  |
-| CASE statement                 | [12.CASE_statement.sql](12.CASE_statement.sql)                    |
-| Subqueries                     | [13.Subqueries.sql](13.Subqueries.sql)                            |
-| Window Functions               | [14.Window_Function.sql](14.Window_Function.sql)                  |
-| Common Table Expressions (CTE) | [15.CTE.sql](15.CTE.sql)                                          |
-| Temporary Tables               | [16.TEMP_Table.sql](16.TEMP_Table.sql)                            |
-| Stored Procedures              | [17.stored_procedure.sql](17.stored_procedure.sql)                |
-| Triggers & Events              | [18.Triggers_events.sql](18.Triggers_events.sql)                  |
-| DATA CLEANING                  | [19.layoffs_cleaning.sql](CLEANING_&_EDA/19.layoffs_cleaning.sql) |
+| Topic                          | File                                                            |
+| ------------------------------ | --------------------------------------------------------------- |
+| Basic SELECT statements        | [01.SELECT_statement.sql](01.SELECT_statement.sql)              |
+| WHERE Clause                   | [02.WHERE_Clause.sql](02.WHERE_Clause.sql)                      |
+| LIKE Operator                  | [03.LIKE_Operator.sql](03.LIKE_Operator.sql)                    |
+| GROUP BY Statement             | [04.GROUPBY.sql](04.GROUPBY.sql)                                |
+| ORDER BY Statement             | [05.ORDERBY.sql](05.ORDERBY.sql)                                |
+| HAVING Clause                  | [06.HAVING_Clause.sql](06.HAVING_Clause.sql)                    |
+| LIMIT Clause                   | [07.LIMIT_Clause.sql](07.LIMIT_Clause.sql)                      |
+| ALIASING                       | [08.ALIASING.sql](08.ALIASING.sql)                              |
+| JOIN                           | [09.JOIN.sql](09.JOIN.sql)                                      |
+| UNION                          | [10.UNION.sql](10.UNION.sql)                                    |
+| String Functions               | [11.String_function.sql](11.String_function.sql)                |
+| CASE statement                 | [12.CASE_statement.sql](12.CASE_statement.sql)                  |
+| Subqueries                     | [13.Subqueries.sql](13.Subqueries.sql)                          |
+| Window Functions               | [14.Window_Function.sql](14.Window_Function.sql)                |
+| Common Table Expressions (CTE) | [15.CTE.sql](15.CTE.sql)                                        |
+| Temporary Tables               | [16.TEMP_Table.sql](16.TEMP_Table.sql)                          |
+| Stored Procedures              | [17.stored_procedure.sql](17.stored_procedure.sql)              |
+| Triggers & Events              | [18.Triggers_events.sql](18.Triggers_events.sql)                |
+| DATA CLEANING                  | [19.layoffs_cleaning.sql](CLEANING_EDA/19.layoffs_cleaning.sql) |
 
 ---
 
