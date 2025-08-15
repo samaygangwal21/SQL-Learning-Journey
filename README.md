@@ -69,6 +69,7 @@ I’m using a dataset _layoffs_ , featuring:
 | Stored Procedures              | [17.stored_procedure.sql](17.stored_procedure.sql)              |
 | Triggers & Events              | [18.Triggers_events.sql](18.Triggers_events.sql)                |
 | DATA CLEANING                  | [19.layoffs_cleaning.sql](CLEANING_EDA/19.layoffs_cleaning.sql) |
+| EDA                            | [20.EDA.sql](CLEANING_EDA/20.EDA.sql)                           |
 
 ---
 
